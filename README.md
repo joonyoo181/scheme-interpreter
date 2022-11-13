@@ -3,7 +3,7 @@ A Scheme interpreter coded from scratch using Python
 
 ## Summary
 Scheme is a dialect of the Lisp family of programming languages. This program provides the backend system modules for a terminal to run Scheme programs.
-Utilizes lexical analysis and syntactial analysis to read, parse, evaluate, and print Scheme code. Employed tail recursion for efficient computing (constant space complexity)
+Utilizes lexical analysis and syntactical analysis to read, parse, evaluate, and print Scheme code. Employed tail recursion for efficient computing (constant space complexity)
 
 ### Running the program
 1) Download the files
