@@ -6,7 +6,7 @@ Scheme is a dialect of the Lisp family of programming languages. This program pr
 
 Features of the interpreter:
 - lexical analysis and syntactical analysis to read, parse, evaluate, and print Scheme code
-- tail recursion for handling recursive calls in O(1) space complexity
+- tail call optimization to reduce stack frame allocations when handling recursive functions
 
 ### Using the Interpreter
 1) Clone the repository
